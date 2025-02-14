@@ -23,13 +23,8 @@ Additionally, this study aims to define format style options for configuring the
 - [Headers](#headers)  
 - [Comments](#comments)  
 - [Naming Conventions](#naming-conventions)  
-- [Formatting and MISC](#formatting-and-misc)  
-- [Mozilla Coding Guide](#mozilla-coding-guide)  
-- [Examples](#examples)  
-- [API Reference](#api-reference)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Contact](#contact)  
+- [Formatting and MISC](#formatting-and-misc)    
+- [Contributors](#contributors)    
 
 ---
 
@@ -342,3 +337,5 @@ Names should be in camel case (e.g. `TextFileReader` and `isLValue()`)
   };
   ```
 
+## Contributors
+_Rohith Namavaram_
