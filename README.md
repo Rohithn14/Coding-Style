@@ -337,5 +337,8 @@ Names should be in camel case (e.g. `TextFileReader` and `isLValue()`)
   };
   ```
 
+## Notes
+- [cpplint.py](https://raw.githubusercontent.com/cpplint/cpplint/HEAD/cpplint.py)  is a tool that reads a source file and identifies many style errors based on google coding standards
+
 ## Contributors
 _Rohith Namavaram_
